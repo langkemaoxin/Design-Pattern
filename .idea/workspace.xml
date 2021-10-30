@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/LagouJava/Level 1/moudle2_spring/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/Level 1/moudle2_spring/spring/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/Level 1/moudle2_spring/spring/spring/SpringSource/spring-framework-5.1.x/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/moudle2_spring/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/moudle2_spring/spring-framework-5.1.x/spring-lagou-anno-001" value="PREVIEW" />
+        <entry key="D:/LagouJava/moudle2_spring/spring/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/moudle2_spring/spring/spring/SpringSource/spring-framework-5.1.x/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/moudle3_springMVC/SpringMVC上/SpringMVC/源码剖析的工程/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/模块二 spring/spring/spring/Spring源码/spring-framework-5.1.x/spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/LagouJava/模块二 spring/spring/spring/Spring源码/spring-lagou/spring-lagou" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven\repository" />
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-300" />
+    <option name="y" value="413" />
+    <option name="width" value="1940" />
+    <option name="height" value="999" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
